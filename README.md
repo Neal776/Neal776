@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in any bioinformatics and molecular biology project.
 - 📫 How to reach me through my email: nealmfegmachado@gmail.com and my linkedin link: www.linkedin.com/in/neal-machado
 - 😄 Pronouns: He, him
-- ⚡ Fun fact: Como extranjero de Ecuador, mi amalgama distintiva de excelencia académica, experiencia en bioinformática y delicadeza interpersonal me posiciona como un activo valioso para cualquier equipo centrado en la biología.
+- ⚡ Fun fact: As a foreign national from Ecuador, my distinctive amalgam of academic excellence, bioinformatics expertise and interpersonal finesse positions me as a valuable asset to any biology-focused team.
 
 <!---
 Neal776/Neal776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
